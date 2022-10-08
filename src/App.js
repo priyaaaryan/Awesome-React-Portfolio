@@ -9,8 +9,7 @@ function App() {
   const [categories] = useState([
     {
       name: "projects",
-      description:
-        "Photos of grocery stores, food trucks, and other commercial projects",
+      description: "Photos of latest projects completed in 2022",
     },
   ]);
 

@@ -29,7 +29,7 @@ function Nav(props) {
             {" "}
            
           </span>{" "} */}
-          Priyaaryan Portfolio
+          Priyaaaryan Portfolio
         </a>
       </h2>
       <nav>

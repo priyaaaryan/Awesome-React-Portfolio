@@ -7,34 +7,29 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: "Grocery aisle",
+      name: "Music Weekly",
       category: "projects",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+      description: "https://musicweekly.herokuapp.com/",
     },
     {
-      name: "Grocery booth",
+      name: "Coffee Break Fun",
       category: "projects",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+      description: "https://tarajevans.github.io/coffee-break/",
     },
     {
-      name: "Building exterior",
+      name: "Work Day Scheduler",
       category: "projects",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+      description: "https://priyaaaryan.github.io/Work-Day-Scheduler/",
     },
     {
-      name: "Restaurant table",
+      name: "Horiseo Website",
       category: "projects",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+      description: "https://priyaaaryan.github.io/Code-Refactor/",
     },
     {
-      name: "Cafe interior",
+      name: "Run Buddy",
       category: "projects",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+      description: "https://priyaaaryan.github.io/run-buddy/",
     },
   ]);
 
